@@ -1,0 +1,77 @@
+/**
+ * Global styles for GoCharting SDK Demo
+ * Matches the styling from chart-sdk-codepen.html
+ */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+
+	color-scheme: dark;
+	color: white;
+
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+body {
+	margin: 0;
+	min-width: 320px;
+	min-height: 100vh;
+}
+
+#root {
+	width: 100%;
+	min-height: 100vh;
+}
+
+/* 
+a {
+	font-weight: 500;
+	color: #4a90e2;
+	text-decoration: inherit;
+}
+
+a:hover {
+	color: #357abd;
+}
+
+h1 {
+	font-size: 2.5rem;
+	line-height: 1.2;
+	margin-bottom: 10px;
+}
+
+button {
+	border-radius: 8px;
+	border: none;
+	padding: 12px 24px;
+	font-size: 14px;
+	font-weight: 600;
+	font-family: inherit;
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+button:hover:not(:disabled) {
+	transform: translateY(-2px);
+}
+
+button:focus,
+button:focus-visible {
+	outline: 2px solid #4a90e2;
+	outline-offset: 2px;
+}
+
+button:disabled {
+	opacity: 0.5;
+	cursor: not-allowed;
+} */
